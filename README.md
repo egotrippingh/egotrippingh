@@ -1,14 +1,28 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141321,100:1E1E2E&height=200&section=header&text=egotrippingh%20👋&fontColor=FFFFFF&fontSize=50&fontAlignY=35&desc=Frontend%20Developer%20|%20React%20•%20Next.js%20•%20TypeScript&descAlignY=55&animation=fadeIn" />
-</p>
+<div id="header" align="center">
+  <img src="https://i.imgur.com/CpF5lWY.gif" width="300"/>
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=egotrippingh&style=flat-square&color=blue" alt=""/>
+</div>
+<h1 align="center">
+  ⚡ Wassup, I'm <span style="color:#00FFFF;">egocoder</span> ⚡<br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=egocoder+%3F+star+%3A+alt%2Bf4;const+egocoder+%3D+frontend+engineer" alt="Typing SVG" />
+</h1>
+<h2 align="center">💻 About Me</h2>
+<div align="center">
+  <pre style="text-align:left; display:inline-block; background-color:#0d0d0d; color:#00FFFF; padding:20px; border-radius:15px;">
+&gt; I'm a Junior Backend Developer from Russia   
+&gt; My goal: break through the “junior” boundaries and level up 🚀  
+&gt; The stack? That's a story for the next chapter...
+  </pre>
+</div>
 
 ---
 
 ### 👨‍💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,scss,html,css,postgres,prisma,figma,vite" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,scss,html,css,postgres,prisma,vite,figma" />
 </p>
 
 ---
