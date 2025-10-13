@@ -52,9 +52,3 @@
     <img src="https://img.shields.io/badge/Telegram-141321?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1E2E,100:141321&height=100&section=footer" />
-</p>
