@@ -11,8 +11,7 @@
 <h2 align="center">💻 About Me</h2>
 <div align="center">
   <pre style="text-align:left; display:inline-block; background-color:#0d0d0d; color:#00FFFF; padding:20px; border-radius:15px;">
-&gt; I'm a Junior+ Frontend Developer from Russia   
-&gt; My goal: break through the “junior” boundaries and level up 🚀  
+&gt; I'm a Frontend Developer from Russia   
 &gt; The stack? Scroll down c:
   </pre>
 </div>
